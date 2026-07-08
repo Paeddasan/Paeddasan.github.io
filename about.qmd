@@ -1,0 +1,25 @@
+---
+title: "Peter RAIDL"
+subtitle: "Sport- and Human Movement Scientist based in Vienna"
+about:
+  template: trestles
+  image: images/Peter.jpg
+  image-shape: round
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=STdg3CUAAAAJ&hl=de&oi=ao
+    - icon: envelope
+      text: E-Mail
+      href: mailto:peter.raidl@univie.ac.at
+---
+
+When I started school, I wanted to become a writer or scientist. Now, I finally found the courage to be just that.
+
+It's scary!
+
+I hold a PhD in Sport and Human Movement Science from the University of Vienna and a BSc degree in Physiotherapy. I have broad interests in training and exercise science for health and performance, and feel drawn to psychology and philosophy, even though I have no special training in either.
+
+**Embodymate** was originally created in 2015 and developed into a loose collaboration between a Psychotherapist (Chris) and a sport scientist (Peter). Our professional paths diverged a bit, but I keep Embodymate mostly for nostalgic reasons. The name still has meaning to me!
+
+In case you are missing any older content or are interested in psychotherapy, please contact my beloved colleague [Christoph Humnig](https://verhaltenstherapie-ybbsstrasse.jimdosite.com/) directly.

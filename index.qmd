@@ -1,0 +1,11 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.landing-hero .text-center}
+![](images/logo.png){width="570" fig-alt="embodymate Logo"}
+
+**\[Mind - Body - Movement\]**
+:::
