@@ -99,6 +99,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching-material" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching Material</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching-material">    
+        <li>
+    <a class="dropdown-item" href="./Training-Processes-Lecture-Notes/">
+ <span class="dropdown-text">Training Processes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./PersonalCoaching_Script/">
+ <span class="dropdown-text">Personal Coaching</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -136,9 +151,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>When I started school, I wanted to become a writer or scientist. Now, I finally found the courage to be just that.</p>
+<p>When I started school, I wanted to become a writer or a scientist. Now, I finally found the courage to be just that.</p>
 <p>It’s scary!</p>
-<p>I hold a PhD in Sport and Human Movement Science from the University of Vienna and a BSc degree in Physiotherapy. I have broad interests in training and exercise science for health and performance, and feel drawn to psychology and philosophy, even though I have no special training in either.</p>
+<p>I hold a PhD in Sport and Human Movement Science from the University of Vienna and a BSc degree in Physiotherapy. I have broad interests in training and exercise science for health and performance,</p>
+<p>I also feel drawn to psychology and philosophy, even though I have no special training in either. But what can I say - I live in Vienna.</p>
 <p><strong>Embodymate</strong> was originally created in 2015 and developed into a loose collaboration between a Psychotherapist (Chris) and a sport scientist (Peter). Our professional paths diverged a bit, but I keep Embodymate mostly for nostalgic reasons. The name still has meaning to me!</p>
 <p>In case you are missing any older content or are interested in psychotherapy, please contact my beloved colleague <a href="https://verhaltenstherapie-ybbsstrasse.jimdosite.com/">Christoph Humnig</a> directly.</p>
 
@@ -212,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Paeddasan\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
