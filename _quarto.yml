@@ -10,7 +10,14 @@ website:
         text: Home
       - href: about.qmd
         text: About
-
+      - text: "Blog"
+        href: "/blog/"
+      - text: "Teaching Material"
+        menu:
+          - text: "Training Processes — Lecture Notes"
+            href: "/Training-Processes-Lecture-Notes/"
+          - text: "Personal Coaching — Script"
+            href: "/PersonalCoaching_Script/"
 format:
   html:
     theme: cosmo
